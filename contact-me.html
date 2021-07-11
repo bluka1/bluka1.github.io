@@ -21,19 +21,23 @@
                     <h3>Luka Batarelo</h6>
                 </div>
                 <ul class="menu">
-                    <li id="active-page"><a href="./index.html">About me</a></li>
+                    <li><a href="./index.html">About me</a></li>
                     <li><a href="./skills.html">Skills</a></li>
                     <li><a href="./projects.html">Projects</a></li>
-                    <li><a href="./contact-me.html">Contact me</a></li>
+                    <li id="active-page"><a href="./contact-me.html">Contact me</a></li>
                 </ul>
             </div>
 
-            <div class="about-me">
-                <h3>Hello hello hello...</h3>
-                <p>My name is Luka and recently I started to learn programming.</p>
-                <p>Computers were always interesting, but I've never put efforts in learning about computers in general,
-                    especially programming.</p>
-                <p>About 3 months ago I decided to take it seriously and here is one of my results - this webpage.</p>
+            <div class="contact-me">
+                <form action="mailto:luka.batarelo@gmail.com" method="post" enctype="text/plain">
+                    <label for="name" name="name">Name: </label>
+                    <input type="text" required>
+                    <label for="email" name="email">Email: </label>
+                    <input type="email" required>
+                    <label for="message" name="message">Your message: </label>
+                    <textarea name="message" rows="3" cols="40" required></textarea>
+                    <button>SEND</button>
+                </form>
             </div>
 
         </div>
