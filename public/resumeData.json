@@ -57,22 +57,10 @@
 				"description": "Working on internal applications which include a lot of data flow and data manipulation. Tech stack that I use daily: Java, SQL, git"
 			},
 			{
-				"company": "Lumar",
-				"title": "Business owner",
-				"years": "December 2021 - now",
-				"description": "Leading business papers on my own, keeping books, currently having 1 employee"
-			},
-			{
 				"company": "Faculty of Economics and Business",
 				"title": "External Associate - teacher",
 				"years": "February 2022 - now",
 				"description": "Teaching students about business information systems, organizing teaching classes, organizing exams."
-			},
-			{
-				"company": "Wolt / Bolt / Uber",
-				"title": "Taxi driver / courier",
-				"years": "December 2019 - March 2021",
-				"description": "Driving and communicating with clients. Delivering food from restaurants to client's doors"
 			}
 		]
 	},
