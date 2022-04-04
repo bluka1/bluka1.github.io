@@ -1,10 +1,10 @@
 {
 	"main": {
 		"name": "Luka Batarelo",
-		"occupation": "Full-stack developer and faculty teacher",
+		"occupation": "Full-stack developer, faculty teacher, business owner",
 		"description": "The whole point of being alive is to improve myself in every aspect of life",
 		"image": "profilepic.jpg",
-		"bio": "Hello everyone! My name is Luka and currently I work as a full-stack web developer. My side hustle is front-end web development, especially sharpening my React skills. Beside that I am also a faculty teacher on Faculty of Economics and Business. My main field of interest is React, web3, finances, investing and building amazing life. I love working and want to be part of someting huge. Plans for future are pretty huge, working every single day to improve myself and be on the right way.",
+		"bio": "Hello everyone! My name is Luka and currently I work as a full-stack web developer. My side hustle is front-end web development, especially sharpening my React skills. Beside that I am also a faculty teacher on Faculty of Economics and Business and business owner. My main field of interest is React, web3, finances, investing and building amazing life. I love working and want to be part of someting huge. Plans for future are pretty huge, working every single day to improve myself and be on the right way.",
 		"contactmessage": "Get in touch with me!",
 		"email": "luka.batarelo@gmail.com",
 		"phone": "",
@@ -54,35 +54,25 @@
 				"company": "Croatian National Pension Institute",
 				"title": "Full-stack web developer",
 				"years": "March 2021 - now",
-				"description": "Working on complex web apps"
+				"description": "Working on internal applications which include a lot of data flow and data manipulation. Tech stack that I use daily: Java, SQL, git"
+			},
+			{
+				"company": "Lumar",
+				"title": "Business owner",
+				"years": "December 2021 - now",
+				"description": "Leading business papers on my own, keeping books, currently having 1 employee"
 			},
 			{
 				"company": "Faculty of Economics and Business",
 				"title": "External Associate - teacher",
-				"years": "February 2021 - now",
-				"description": "Teaching students about business information systems"
-			}
-		],
-		"skills": [
-			{
-				"name": "ReactJs",
-				"level": "40%"
+				"years": "February 2022 - now",
+				"description": "Teaching students about business information systems, organizing teaching classes, organizing exams."
 			},
 			{
-				"name": "Javascript",
-				"level": "50%"
-			},
-			{
-				"name": "Git",
-				"level": "40%"
-			},
-			{
-				"name": "Java",
-				"level": "20%"
-			},
-			{
-				"name": "SQL",
-				"level": "40%"
+				"company": "Wolt / Bolt / Uber",
+				"title": "Taxi driver / courier",
+				"years": "December 2019 - March 2021",
+				"description": "Driving and communicating with clients. Delivering food from restaurants to client's doors"
 			}
 		]
 	},
