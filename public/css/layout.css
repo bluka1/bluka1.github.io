@@ -802,6 +802,7 @@ call-to-action .button {
 .flexslider .slides > li {
 	display: none;
 	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
 }
 /* Suggested container for slide animation setups. Can replace this with your own */
 .flex-container {
@@ -930,7 +931,7 @@ call-to-action .button {
 }
 
 /* contact form */
-#contact form {
+/*#contact form {
 	margin-bottom: 30px;
 }
 #contact label {
@@ -1005,10 +1006,10 @@ call-to-action .button {
 	position: relative;
 	left: 18px;
 	top: 17px;
-}
+}*/
 
 /* Twitter Feed */
-#twitter {
+/*#twitter {
 	margin-top: 12px;
 	padding: 0;
 }
@@ -1023,7 +1024,7 @@ call-to-action .button {
 	font: 13px/36px 'opensans-regular', Sans-serif;
 	color: #474747 !important;
 	border: none;
-}
+}*/
 
 /* ------------------------------------------------------------------ */
 /* i. Footer
