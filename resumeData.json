@@ -1,0 +1,107 @@
+{
+	"main": {
+		"name": "Luka Batarelo",
+		"occupation": "Full-stack developer, faculty teacher, business owner",
+		"description": "The whole point of being alive is to improve myself in every aspect of life",
+		"image": "profilepic.jpg",
+		"bio": "Hello everyone! My name is Luka and currently I work as a full-stack web developer. My side hustle is front-end web development, especially sharpening my React skills. Beside that I am also a faculty teacher on Faculty of Economics and Business and business owner. My main field of interest is React, web3, finances, investing and building amazing life. I love working and want to be part of someting huge. Plans for future are pretty huge, working every single day to improve myself and be on the right way.",
+		"contactmessage": "Get in touch with me!",
+		"email": "luka.batarelo@gmail.com",
+		"phone": "",
+		"address": {
+			"street": "",
+			"city": "Zagreb, Croatia",
+			"state": "",
+			"zip": ""
+		},
+		"website": "",
+		"resumedownload": "",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/luka.batarelo",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/luka-batarelo/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/luka_batarelo",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/bluka1",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "My Programming Language Proficiency",
+		"education": [
+			{
+				"school": "University of Zagreb",
+				"degree": "Master's Degree, Economics and Business - Management",
+				"graduated": "September 2019",
+				"description": "Graduated with First Class Honours"
+			}
+		],
+		"work": [
+			{
+				"company": "Croatian National Pension Institute",
+				"title": "Full-stack web developer",
+				"years": "March 2021 - now",
+				"description": "Working on internal applications which include a lot of data flow and data manipulation. Tech stack that I use daily: Java, SQL, git"
+			},
+			{
+				"company": "Faculty of Economics and Business",
+				"title": "External Associate - teacher",
+				"years": "February 2022 - now",
+				"description": "Teaching students about business information systems, organizing teaching classes, organizing exams."
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Slack Clone (React JS)",
+				"category": "",
+				"image": "slack-clone.jpg",
+				"url": "https://slack-clone-16936.web.app/"
+			},
+			{
+				"title": "LinkedIn Redesign (React JS)",
+				"category": "",
+				"image": "linkedIn-redesign.jpg",
+				"url": "https://linkedin-clone-by-luka.netlify.app/"
+			},
+			{
+				"title": "NFT Drop Challenge (TS + NextJS)",
+				"category": "",
+				"image": "nft-drop.jpg",
+				"url": "https://nft-challenge-omega.vercel.app/"
+			},
+			{
+				"title": "Metaverse Challenge (React + Tailwind CSS)",
+				"category": "",
+				"image": "metaverse.jpg",
+				"url": "https://metaverse-challenge-fawn.vercel.app/"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": "Habits are the compound interest of self-improvement",
+				"user": "James Clear"
+			},
+			{
+				"text": "Start from wherever you are and with whatever you’ve got.",
+				"user": "Jim Rohn"
+			}
+		]
+	}
+}
