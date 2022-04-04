@@ -20,7 +20,7 @@ const Testimonials = ({ data }) => {
 				<div className='row'>
 					<div className='two columns header-col'>
 						<h1>
-							<span>Qoutes that inspires me the most</span>
+							<span>Quotes that inspires me the most</span>
 						</h1>
 					</div>
 
